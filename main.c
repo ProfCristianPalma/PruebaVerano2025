@@ -6,3 +6,7 @@ int main (void)
 
 catch{}
 try{}
+
+for (int i; i<10; i++){
+    printf("Nombre Edaly")
+}
